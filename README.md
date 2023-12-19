@@ -1,6 +1,7 @@
 # Amino Acid Haplotype Characterization
+A simple R tool to chracterize haplotypes from amino acid multiple alignment
 
-## Introduction
+## About
 Struggling to analyze your amino acid alignments? This R script simplifies counting unique haplotypes and calculating their frequencies, both overall and within defined populations.
 
 ## Features
